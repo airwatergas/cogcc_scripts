@@ -1,2 +1,2 @@
 # cogcc_scripts
-Colorado Oil &amp; Gas Conservation Commission (COGCC) SQL and Ruby Scripts
+Most up-to-date Colorado Oil &amp; Gas Conservation Commission (COGCC) SQL and Ruby Scripts
